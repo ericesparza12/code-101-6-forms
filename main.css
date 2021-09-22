@@ -1,0 +1,63 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+  }
+  h1 {
+      margin: 20px;
+      text-align: center;
+      /* position: fixed;
+  top: 40%;
+  left: 50%;
+  margin-top: -40px;
+  margin-left: -100px; */
+  padding: 3px;
+  font-family: 'Roboto' , sans-serif;
+}
+    .firstname {
+ text-align: center;  
+ /* position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px; */
+  padding: 3px;
+}
+    .lastname {
+  text-align: center;    
+  /* position: fixed;
+  top: 60%;
+  left: 50%;
+  margin-top: -60px;
+  margin-left: -100px; */
+  padding: 3px;
+}
+    .email {
+  text-align: center;    
+  /* position: fixed;
+  top: 70%;
+  left: 50%;
+  margin-top: -70px;
+  margin-left: -90px; */
+  padding: 1px;
+}
+
+.submit {
+    text-align: center;    
+    /* position: fixed;
+    top: 80%;
+    left: 50%;
+    margin-top: -80px;
+    margin-left: */
+    padding:  30px;
+}
+    body {
+        background-color: white;
+    }
+form {
+    border: 1px solid black;
+    width: 300px;
+    margin: 200px auto 0 auto;
+    padding: 2px;
+    border-radius: 15px;
+}
